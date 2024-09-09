@@ -1,4 +1,4 @@
-var idade = 15;
+var idade = 30;
 
 switch (true) {
   case(idade <13):
